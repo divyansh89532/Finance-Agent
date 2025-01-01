@@ -40,8 +40,8 @@ This project showcases a dynamic multi-agent AI application that integrates fina
 
 1. **Clone the Repository**:
    ```bash
-   git clone [https://github.com/yourusername/financial-agent-playground.git](https://github.com/divyansh89532/Finance-Agent.git)
-   cd financial-agent-playground
+   git clone https://github.com/divyansh89532/Finance-Agent.git
+   cd Finance-Agent
    ```
 
 2. **Install Dependencies**:
